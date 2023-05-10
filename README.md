@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![CircleCI](https://circleci.com/gh/noahgift/functional_intro_to_python.svg?style=svg&circle-token=d3ccec4d9ec6d4f1052ec528e22dc26554502cde)](https://circleci.com/gh/noahgift/awslambda)
 
 # AWS Lambda
@@ -96,3 +97,7 @@ His most recent online courses are:
 *   [Microservices with this Udacity DevOps Nanodegree (Udacity, 2019)](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
 *   [Command Line Automation in Python (DataCamp, 2019)](https://www.datacamp.com/instructors/ndgift)
 *   [AWS Certified Cloud Practitioner 2020-Real World & Pragmatic](https://www.udemy.com/course/aws-certified-cloud-practitioner-2020-real-world-pragmatic/?referralCode=CAC679A7D08212773428).
+=======
+# awslambda
+AWS Lambda
+>>>>>>> 7791298829622caec915825cb4a24598be5c3335
